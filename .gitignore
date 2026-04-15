@@ -8,9 +8,11 @@ obj/
 *.userosscache
 *.sln.docstates
 
+
 # Visual Studio cache/options
 .vs/
-
+appsettings.Development.json
+appsettings.json
 # Rider
 .idea/
 
